@@ -1,0 +1,62 @@
+body {
+    background-image: url("img/IMG_0674.JPG");
+}
+#holl {
+    color: white;
+    text-align: center;
+    
+}
+#holl p {
+    font-size: xx-large;
+}
+#holl h4 {
+    font-size: xx-large;
+}
+#holl img {
+    border-radius: 500px;
+}
+#hol {
+    color: white;
+    position: relative;
+    right: -46%;
+}
+#div2 {
+    color: white;
+    position:relative;
+    right: -15%;
+    font-size: xx-large;
+}
+#div3 {
+    color: white;
+    text-align: center;
+    font-size: x-large;
+}
+#div4 {
+    color: white;
+    position:relative;
+    left: 490px;
+    font-size: xx-large;
+}
+#div4 table {
+    border-radius: 20px;
+    
+}
+#div5 {
+    color: white;
+    text-align: center;
+}
+#div6 {
+    color: white;
+    text-align: center;
+} 
+#div7 input {
+    border-radius: 50px;
+}
+#div7 textarea {
+    border-radius: 50px;
+}
+#div7 {
+    color: white;
+    position: relative;
+    right: -44.5%;
+}
